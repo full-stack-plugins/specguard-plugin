@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "specguard",
   "version": "0.1.1",
-  "description": "让需求、验收、设计、任务与测试义务保持可追踪。",
+  "description": "Requirements and acceptance baseline guard: validate traceability, approved baselines and coverage gaps; ambiguous intent goes to human review.",
   "author": {
     "name": "Full Stack Skills / PartMe.AI",
     "url": "https://github.com/full-stack-plugins"
